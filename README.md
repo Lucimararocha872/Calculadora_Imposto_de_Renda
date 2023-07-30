@@ -10,7 +10,7 @@ Abaixo de R$ 3.000,00  |Isento
 R$ 3.000,00 até R$ 5.000,00 exclusive | 10%
 R$ 5.000,00 ou acima| 20%
 
-2- Adiconados a esse valor, devem ser incluídos os seguintes encargos:
+2- Adicionados a esse valor, devem ser incluídos os seguintes encargos:
 
 * Para renda com prestação de serviços -> + 15% sobre o valor do serviço;
 * Para renda com capital (imóveis, ações, etc) -> + 20% sobre o valor do capital.
